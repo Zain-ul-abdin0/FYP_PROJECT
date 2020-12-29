@@ -41,7 +41,7 @@ class VideosListView extends StatelessWidget {
             height: 300,
             child: ChewieListItem(
               videoPlayerController:
-                  VideoPlayerController.asset('videos/zain.mp4'),
+                  VideoPlayerController.asset(' videos/zain.mp4'),
               looping: true,
             ),
           ),
