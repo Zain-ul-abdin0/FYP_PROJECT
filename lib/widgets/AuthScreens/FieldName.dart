@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:FYP_PROJECT/screen/ForgetPassword.dart';
+import 'package:FYP_PROJECT/screen/AuthScreens/ForgetPassword.dart';
 
 class FieldName extends StatelessWidget {
   FieldName(this.name, this.check);

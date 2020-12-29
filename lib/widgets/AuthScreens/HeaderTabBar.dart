@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:FYP_PROJECT/screen/Login.dart';
-import 'package:FYP_PROJECT/screen/SignUp.dart';
+import 'package:FYP_PROJECT/screen/AuthScreens/Login.dart';
+import 'package:FYP_PROJECT/screen/AuthScreens/SignUp.dart';
 
 class HeaderTabBar extends StatelessWidget {
   @override
